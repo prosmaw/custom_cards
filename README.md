@@ -1,4 +1,7 @@
 # custom_cards
+I find this interesting design here (https://www.youtube.com/watch?v=ZMg_syAIoVo) and I give it a try couple months ago.
+
+<img src="https://github.com/prosmaw/custom_cards/blob/main/test/Screenshot_1712099145.png" width="350" height="790">
 
 A new Flutter project.
 
